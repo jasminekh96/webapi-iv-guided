@@ -16,6 +16,8 @@ Do one thing really well. Only one reason to change.
 - extract configuration into environment variables.
 - setup Continous deployment from Github to Heroku.
   -commit and push to GitHub and the api gets updated on Heroku 
+- add a "start" script to `package.json`
+- 
 
 # Switching Remotes 
 - `git remote set-url origin url to new empty repository on GitHub`
